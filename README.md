@@ -21,4 +21,10 @@
 5. Predicting & Comparing percentage marks
 6. Evaluating the model
 
-
+## Required packages :
+* pandas
+* numpy
+* matplotlib.pyplot 
+* seaborn
+* sklearn
+* sys
